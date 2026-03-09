@@ -1,0 +1,11 @@
+{
+  "title": "AstroRecon",
+  "description": "Builds searchable datasets of satellites, operators, ground stations, and mission metadata from sample catalogs.",
+  "suggested_topics": [
+    "space-security",
+    "ai-systems",
+    "research-prototype",
+    "astrorecon"
+  ],
+  "color_theme": "#1ecbe1"
+}

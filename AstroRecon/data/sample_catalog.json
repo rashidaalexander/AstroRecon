@@ -1,0 +1,25 @@
+{
+  "satellites": [
+    {
+      "name": "Aster-1",
+      "operator": "Helios Dynamics",
+      "orbit": "LEO",
+      "ground_station": "Cayenne",
+      "status": "active"
+    },
+    {
+      "name": "Aster-2",
+      "operator": "Helios Dynamics",
+      "orbit": "SSO",
+      "ground_station": "Canberra",
+      "status": "active"
+    },
+    {
+      "name": "Lynx-9",
+      "operator": "North Meridian",
+      "orbit": "MEO",
+      "ground_station": "Svalbard",
+      "status": "maintenance"
+    }
+  ]
+}
